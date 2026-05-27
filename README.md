@@ -29,8 +29,6 @@
 1. 打开 `google-drive.js`，修改 `config` 对象中的 `root_id`、`client_id`、`client_secret`、`refresh_token`（可通过 [rclone](https://rclone.org) 工具获取）；
 2. 将代码粘贴到 Cloudflare Workers 编辑器中保存发布。
 
----
-
 ## js-proxy
 
 **通用 HTTP/HTTPS 代理**
@@ -41,8 +39,6 @@
 
 1. 将代码粘贴到 Cloudflare Workers 编辑器中保存发布；
 2. 访问 `https://你的域名/-----https://google.com` 即可代理访问目标网站。
-
----
 
 ## r2-image
 
