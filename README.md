@@ -33,7 +33,7 @@
 
 **通用 HTTP/HTTPS 代理**
 
-基于 [jsproxy](https://github.com/EtherDream/jsproxy) 项目，通过 Worker 作为代理转发 HTTP/HTTPS 请求。
+基于 [jsproxy](https://github.com/EtherDream/jsproxy) 项目，通过 Worker 作为代理转发 HTTP/HTTPS 请求。示例：https://proxy.force.workers.dev
 
 #### 使用方法
 
